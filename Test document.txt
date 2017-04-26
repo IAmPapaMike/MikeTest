@@ -1,3 +1,5 @@
 Just putting some text in here so that there's something to commit to git
 
+Altered for hotfix
+
 Changed in v1
